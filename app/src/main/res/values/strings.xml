@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Watchdis</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="title">Title</string>
+    <string name="score">Score</string>
+    <string name="score_format">%d/100</string>
+    <string name="length">Length</string>
+    <string name="length_format_h_m">%dh %dm</string>
+    <string name="length_format_h">%dh</string>
+    <string name="length_format_m">%dm</string>
+    <string name="genre">Genre</string>
+    <string name="date">Date</string>
+    <string name="release_date">Release date: </string>
+    <string name="overview">Overview</string>
+    <string name="status">Status: </string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="welcome_back_info">Millions of movies, TV shows and people to discover. Explore now.</string>
+    <string name="share_this_movie">Share this movie now.</string>
+    <string name="share_this_tv_show">Share this tv show now.</string>
+    <string name="check_out">Check out the %s details on Watchdis app!</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="favorite_tv_shows">Favorite TV Shows</string>
+    <string name="empty_favorite_info">Wah, daftar favorite masih kosong…</string>
+    <string name="error_info">Terjadi kesalahan…</string>
+</resources>

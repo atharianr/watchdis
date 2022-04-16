@@ -1,0 +1,85 @@
+Menampilkan data MOVIE
+
+Memastikan rv_movie dalam keadaan tampil
+Gulir rv_movie ke posisi 10
+
+
+Menampilkan data TV SHOW
+
+Memastikan view_pager2 dalam keadaan tampil
+Swipe ke kiri pada view_pager2
+Memastikan rv_tv_show dalam keadaan tampil
+Gulir rv_tv_show ke posisi 10
+
+
+Menampilkan data detail MOVIE
+
+Memastikan rv_movie dalam keadaan tampil
+Memberi tindakan klik pada data kedua (1) di rv_movie
+Memastikan TextView untuk title tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk movie length tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk genre tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk score tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk status tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk release date tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk description/overview tampil sesuai dengan yang diharapkan.
+Memastikan ImageView untuk cover tampil sesuai dengan yang diharapkan.
+Memastikan ImageView untuk poster tampil sesuai dengan yang diharapkan.
+
+
+Menampilkan data detail TV SHOW
+
+Memastikan view_pager2 dalam keadaan tampil
+Swipe ke kiri pada view_pager2
+Memastikan rv_tv_show dalam keadaan tampil
+Memberi tindakan klik pada data kedua (1) di rv_tv_show
+Memastikan TextView untuk title tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk movie length tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk genre tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk score tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk status tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk release date tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk description/overview tampil sesuai dengan yang diharapkan.
+Memastikan ImageView untuk cover tampil sesuai dengan yang diharapkan.
+Memastikan ImageView untuk poster tampil sesuai dengan yang diharapkan.
+Memastikan ImageView untuk backdrop tampil sesuai dengan yang diharapkan.
+
+
+Menambahkan, Memuat, Menghapus Favorite Movie
+
+Memastikan rv_movie dalam keadaan tampil
+Memberi tindakan klik pada data kedua (1) di rv_movie
+Memastikan btn_favorite dalam keadaan tampil
+Memberi tindakan klik pada btn_favorite
+Memastikan btn_back dalam keadaan tampil
+Memberi tindakan klik pada btn_back
+Memastikan btn_menu dalam keadaan tampil
+Memberi tindakan klik pada btn_menu
+Memberi tindakan klik pada option dengan text "Favorite Movies"
+Memastikan rv_favorite dalam keadaan tampil
+Memberi tindakan klik pada data pertama (0) di rv_favorite
+Memastikan btn_favorite dalam keadaan tampil
+Memberi tindakan klik pada btn_favorite
+Memastikan btn_back dalam keadaan tampil
+Memberi tindakan klik pada btn_back
+
+
+Menambahkan, Memuat, Menghapus Favorite TV Show
+
+Memastikan view_pager2 dalam keadaan tampil
+Swipe ke kiri pada view_pager2
+Memastikan tv_tv_show dalam keadaan tampil
+Memberi tindakan klik pada data kedua (1) di tv_tv_show 
+Memastikan btn_favorite dalam keadaan tampil
+Memberi tindakan klik pada btn_favorite
+Memastikan btn_back dalam keadaan tampil
+Memberi tindakan klik pada btn_back
+Memastikan btn_menu dalam keadaan tampil
+Memberi tindakan klik pada btn_menu
+Memberi tindakan klik pada option dengan text "Favorite TV Shows"
+Memastikan rv_favorite dalam keadaan tampil
+Memberi tindakan klik pada data pertama (0) di rv_favorite
+Memastikan btn_favorite dalam keadaan tampil
+Memberi tindakan klik pada btn_favorite
+Memastikan btn_back dalam keadaan tampil
+Memberi tindakan klik pada btn_back
